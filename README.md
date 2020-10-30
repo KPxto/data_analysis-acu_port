@@ -11,7 +11,6 @@ I also work on an exploratory data analysis techniques (EDA) to verify features 
 
 * Which terminal takes longer to operate?
 * Which terminal vessel's waiting time is longer or shorter?
-* 
 
 This data and insights are useful for owners intending to bring their vessels to operate at Açu Port as well as to other ports wanting to replicate this model to their reality.
 
